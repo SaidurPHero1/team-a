@@ -14,7 +14,7 @@
 	width: 80%;
 	display: block;
 	margin:auto;
-	padding-top: 100px;
+	padding-top: 50px;
 }
 .content-section{
 	float: left;
@@ -35,9 +35,12 @@
 	width: 100%;
 	height: auto;
 }
-.content-section .title{
+.title{
 	text-transform: uppercase;
-	font-size: 28px;
+	font-size: 38px;
+	text-align: center;
+	color: coral;
+	font-weight: bolder;
 }
 .content-section .content h3{
 	margin-top: 20px;
@@ -100,7 +103,7 @@
 	display: block;
 	margin:auto;
 }
-.content-section .title{
+ .title{
 	text-align: center;
 	font-size: 19px;
 }
@@ -113,9 +116,7 @@
 .content-section .social{
 	text-align: center;
 }
-
 }
-
 
 
 
