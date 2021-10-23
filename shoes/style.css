@@ -1,0 +1,38 @@
+.e-com-bg-info{
+    background-color:#fceae8 ;
+}
+.logo-color{
+    color: black;
+}
+.position-nav{
+    position: relative;
+}
+.catagories img{
+    width: 100px;
+}
+
+.e-com-btn-buy-now{
+   color:blanchedalmond;
+   border-radius: 8px;
+   padding: 9px 25px;
+   border: none;
+   background-image:linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%) ;
+}
+.e-com-btn-buy-now:hover{
+    background-color: firebrick;
+    color: black;
+    font-weight: bolder;
+
+}
+.link{
+text-decoration: none;
+}
+.nav-hover:hover{
+    color: cornsilk;
+    font-weight: bold;
+    font-style: oblique;
+}
+.card-image{
+    height: 60%;
+}
+
